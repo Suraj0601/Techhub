@@ -41,7 +41,7 @@ function App() {
         <Navbar title="TechHub" AboutText="About US" mode={mode} toggleMode={toggleMode} />
         
         <Routes>
-          <Route exact path="/" element={<TextForm heading="Enter this text area" mode={mode} />} />
+          <Route exact path="/Techhub" element={<TextForm heading="Enter this text area" mode={mode} />} />
           <Route exact path="/about" element={<About mode={mode}/>} />
         </Routes>
       </Router>
