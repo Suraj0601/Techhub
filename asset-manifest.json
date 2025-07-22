@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Techhub/static/css/main.dc4d6ff2.css",
+    "main.js": "/Techhub/static/js/main.97086fda.js",
+    "static/js/453.45df9cc5.chunk.js": "/Techhub/static/js/453.45df9cc5.chunk.js",
+    "index.html": "/Techhub/index.html",
+    "main.dc4d6ff2.css.map": "/Techhub/static/css/main.dc4d6ff2.css.map",
+    "main.97086fda.js.map": "/Techhub/static/js/main.97086fda.js.map",
+    "453.45df9cc5.chunk.js.map": "/Techhub/static/js/453.45df9cc5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.97086fda.js"
+  ]
+}
